@@ -75,7 +75,7 @@ public class managePersonCO extends OAControllerImpl
       ,true //retain AM
       ,OAWebBeanConstants.ADD_BREAD_CRUMB_NO
       ,OAWebBeanConstants.IGNORE_MESSAGES);
-
+      //notification testing
     }
   }
 
